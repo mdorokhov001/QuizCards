@@ -1,2 +1,2 @@
 # QuizCards
-Creating quiz cards and playing them in them
+Creating quiz cards and playing them
